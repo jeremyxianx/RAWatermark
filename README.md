@@ -1,7 +1,7 @@
 # RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images (Videos) with Provable Guarantees
 
 ## Overview
-This is the official implementation of our paper titled "RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images (Videos) with Provable Guarantees" [(pdf)](https://github.com/jeremyxianx/RAWatemark/blob/main/assets/reports/raw_arxiv_report.pdf). The paper introduces an innovative watermarking scheme that is model-agnostic, imperceptible, and operates with zero-bit capacity. It is designed for watermarking videos and images, and is suitable for deployment in real-time scenarios.
+This is the official implementation of our paper titled "RAW: A Robust and Agile Plug-and-Play Watermark Framework for AI-Generated Images (Videos) with Provable Guarantees" [(pdf)](https://github.com/jeremyxianx/RAWatermark/blob/main/assets/reports/raw_arxiv_report.pdf). The paper introduces an innovative watermarking scheme that is model-agnostic, imperceptible, and operates with zero-bit capacity. It is designed for watermarking videos and images, and is suitable for deployment in real-time scenarios.
 
 Compared to existing encoder-decoder-based watermarking schemes, such as [RivaGan](https://github.com/DAI-Lab/RivaGAN), our proposed method offers:
 
