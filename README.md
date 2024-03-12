@@ -75,7 +75,7 @@ RAW.detect(wm_demo_video1, decision_thres=0.5)
 - The provable guarantee on the false-positive rate of the watermark detection is only provided for **image watermark** at this moment.
 
 ## APIs
-We provide several more use cases in the [APIs pages](https://github.com/jeremyxianx/RAWatermark/wiki/APIs-and-more-use-cases). These cases include:
+We provide several more use cases in the [APIs pages](https://github.com/jeremyxianx/RAWatermark/wiki/APIs%E2%80%90and%E2%80%90more%E2%80%90use%E2%80%90cases). These cases include:
 
 1. Adjusting the strength of the watermark;
 2. Watermarking images;
