@@ -75,7 +75,7 @@ RAW.detect(wm_demo_video1, decision_thres=0.5)
 - The provable guarantee on the false-positive rate of the watermark detection is only provided for **image watermark** at this moment.
 
 ## APIs
-We provide several more use cases in the [APIs pages](https://github.com/jeremyxianx/RAWatemark/wiki/APIs-and-more-use-cases). These cases include:
+We provide several more use cases in the [APIs pages](https://github.com/jeremyxianx/RAWatermark/wiki/APIs-and-more-use-cases). These cases include:
 
 1. Adjusting the strength of the watermark;
 2. Watermarking images;
@@ -96,8 +96,8 @@ We test the trained watermark and its associated classifier (trained on the [MS-
 
 Original             |  Watermarked | Pixel-wise Difference ($\times 6$)
 :-------------------------:|:-------------------------:|:-------------------------: 
-<img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/uwm2.gif" width="250" height="250"/> |  <img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/wm2.gif" width="250" height="250"/> | <img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/diff2.gif" width="250" height="250"/>
-<img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/uwm3.gif" width="250" height="250"/> |  <img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/wm3.gif" width="250" height="250"/> | <img src="https://github.com/jeremyxianx/RAWatemark/blob/main/assets/demo/diff3.gif" width="250" height="250"/>
+<img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/uwm2.gif" width="250" height="250"/> |  <img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/wm2.gif" width="250" height="250"/> | <img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/diff2.gif" width="250" height="250"/>
+<img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/uwm3.gif" width="250" height="250"/> |  <img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/wm3.gif" width="250" height="250"/> | <img src="https://github.com/jeremyxianx/RAWatermark/blob/main/assets/demo/diff3.gif" width="250" height="250"/>
 
 
 ### Encoding Speed (CPU Only)
