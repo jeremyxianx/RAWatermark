@@ -134,6 +134,17 @@ Original             |  Watermarked | Pixel-wise Difference ($\times 6$)
 - [ ] Support for watermark detection with provable guarantee on the false-positive rate for video watermark
 - [ ] Release the entire training pipeline for watermark and classifier
 
+
+
+## How to Contribute
+
+We welcome contributions from everyone. Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+
+
+## Code of Conduct
+
+To ensure a welcoming and productive environment, all participants are expected to uphold our [Code of Conduct](./CODE_OF_CONDUCT.md).
+
 ## Contact
 
 If you have any questions, please feel free to contact us at xian0044@umn.edu or submit an issue.
